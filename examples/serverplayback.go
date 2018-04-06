@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"strings"
 
-	. "github.com/weave-lab/goesl"
+	. "weavelab.xyz/goesl"
 )
 
 var welcomeFile = "%s/media/welcome.wav"
