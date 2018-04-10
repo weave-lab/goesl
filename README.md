@@ -1,3 +1,13 @@
+[![pipeline status](https://gitlab.getweave.com/weave-lab/comm/goesl/badges/master/pipeline.svg)](https://gitlab.getweave.com/weave-lab/comm/goesl/commits/master)
+[![coverage report](https://gitlab.getweave.com/weave-lab/comm/goesl/badges/master/coverage.svg)](https://gitlab.getweave.com/weave-lab/comm/goesl/commits/master)
+
+## Installation
+```bash
+go get weavelab.xyz/goesl
+```
+
+For more information on `weavelab.xyz`, see the projects [readme](https://gitlab.getweave.com/weave-lab/ops/xyz/blob/master/README.md).
+
 [![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/0x19/goesl/tree/master/LICENSE)
 [![Build Status](https://travis-ci.org/0x19/goesl.svg)](https://travis-ci.org/0x19/goesl)
 [![Go 1.3 Ready](https://img.shields.io/badge/Go%201.3-Ready-green.svg?style=flat)]()
